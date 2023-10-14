@@ -1,10 +1,10 @@
-Hi! I'm Edgar, I am currently studying computer science at Polytech Grenoble[^1] and aiming for an engineering degree.
+Hi! I'm Edgar, I am currently studying computer science at Polytech Grenoble[^1] and ÉTS Montréal (in a double diploma) and aiming for an engineering degree.
 
 [^1]: Information on the curriculum:
       🇬🇧 https://www.polytech-grenoble.fr/medias/fichier/info-anglais_1626773054059-pdf
       🇫🇷 https://www.polytech-grenoble.fr/medias/fichier/info-francais_1626773087298-pdf
 
-I love programming in my free time since I'm 10. I particularily love 🦀Rust🦀, back-end web development, CLI tool development, optimization and low-level stuff. I also have a bit of interest in theoritical computer science.
+I love programming in my free time since I'm 10. I particularily love 🦀Rust🦀, compiler and programming language development, back-end web development, CLI tool development, optimization and low-level stuff. I also have a bit of interest in theoritical computer science.
 
 ## Contact
 
@@ -14,7 +14,7 @@ I love programming in my free time since I'm 10. I particularily love 🦀Rust�
 ## Devices
 
 <details>
-<summary><em>On vacation...</em></summary>
+<summary><em>On vacation in France while I'm abroad...</em></summary>
 
 [![Desktop — Custom-built](https://img.shields.io/badge/Desktop-Custom--built-9b191f)](https://www.memorypc.de/) ![OS — Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white) ![CPU — AMD Ryzen 7 2700X](https://img.shields.io/badge/CPU-AMD%20Ryzen%207%202700X-ED1C24?logo=amd&logoColor=white) ![GPU — AMD Radeon RX 5700 XT](https://img.shields.io/badge/GPU-AMD%20Radeon%20RX%205700%20XT-ED1C24?logo=amd&logoColor=white)
 
@@ -23,6 +23,8 @@ I love programming in my free time since I'm 10. I particularily love 🦀Rust�
 <hr>
 
 </details>
+
+![Laptop — Asus Tuf Gaming F15](https://img.shields.io/badge/Laptop-ASUS%20TUF%20Gaming%20F15-000000?logo=asus&logoColor=white) ![OS — Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white) ![CPU — Intel i7-12700H](https://img.shields.io/badge/CPU-Intel%20i7--12700H-0071C5?logo=intel&logoColor=white) ![GPU — NVIDIA GeForce RTX 3050M](https://img.shields.io/badge/GPU-GeForce%20RTX%203050-76B900?logo=nvidia&logoColor=white)
 
 ![Laptop — Asus C423N](https://img.shields.io/badge/Laptop-Asus%20C423N-000000?logo=asus&logoColor=white) ![OS — ChromeOS](https://img.shields.io/badge/OS-ChromeOS-4285F4?logo=google-chrome&logoColor=white)
 
