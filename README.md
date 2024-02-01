@@ -4,7 +4,9 @@ Hi! I'm Edgar, I am currently studying computer science at Polytech Grenoble[^1]
       🇬🇧 https://www.polytech-grenoble.fr/medias/fichier/info-anglais_1626773054059-pdf
       🇫🇷 https://www.polytech-grenoble.fr/medias/fichier/info-francais_1626773087298-pdf
 
-I love programming in my free time since I'm 10. I particularily love 🦀Rust🦀, compiler and programming language development, back-end web development, CLI tool development, optimization and low-level stuff. I also have a bit of interest in theoritical computer science.
+I love programming in my free time since I'm 10. I particularily love 🦀Rust🦀, compiler and programming language development, back-end web development, CLI tool development, optimization and low-level stuff. I also have a bit of interest in theoretical computer science.
+
+I care deeply about current social, societal and environmental issues and strive to prioritize addressing them over pursuing financial gain.
 
 ## Contact
 
@@ -15,8 +17,6 @@ I love programming in my free time since I'm 10. I particularily love 🦀Rust�
 
 <details>
 <summary><em>On vacation in France while I'm abroad...</em></summary>
-
-[![Desktop — Custom-built](https://img.shields.io/badge/Desktop-Custom--built-9b191f)](https://www.memorypc.de/) ![OS — Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white) ![CPU — AMD Ryzen 7 2700X](https://img.shields.io/badge/CPU-AMD%20Ryzen%207%202700X-ED1C24?logo=amd&logoColor=white) ![GPU — AMD Radeon RX 5700 XT](https://img.shields.io/badge/GPU-AMD%20Radeon%20RX%205700%20XT-ED1C24?logo=amd&logoColor=white)
 
 ![Laptop — MSI GE70 2OE](https://img.shields.io/badge/Laptop-MSI%20GE70%202OE-FF0000?logo=msi&logoColor=white) ![OS — Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white) ![CPU — Intel Core i5-4200M](https://img.shields.io/badge/CPU-Intel%20i5--4200M-0071C5?logo=intel&logoColor=white) ![GPU — nVidia GeForce GTX 765M](https://img.shields.io/badge/GPU-GeForce%20GTX%20765M%20-76B900?logo=nvidia&logoColor=white)
 
