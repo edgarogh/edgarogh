@@ -1,8 +1,8 @@
 Hi! I'm Edgar, I am currently studying computer science at Polytech Grenoble[^1] and ÉTS Montréal (in a double diploma) and aiming for an engineering degree.
 
 [^1]: Information on the curriculum:
-      🇬🇧 https://www.polytech-grenoble.fr/medias/fichier/info-anglais_1626773054059-pdf
-      🇫🇷 https://www.polytech-grenoble.fr/medias/fichier/info-francais_1626773087298-pdf
+      🇬🇧 https://polytech.grenoble-inp.fr/medias/fichier/info-anglais-2-_1688983286603-pdf
+      🇫🇷 https://polytech.grenoble-inp.fr/medias/fichier/info-2024_1728381948606-pdf
 
 I love programming in my free time since I'm 10. I particularily love 🦀Rust🦀, compiler and programming language development, back-end web development, CLI tool development, optimization and low-level stuff. I also have a bit of interest in theoretical computer science.
 
@@ -28,4 +28,4 @@ I care deeply about current social, societal and environmental issues and strive
 
 ![Laptop — Asus C423N](https://img.shields.io/badge/Laptop-Asus%20C423N-000000?logo=asus&logoColor=white) ![OS — ChromeOS](https://img.shields.io/badge/OS-ChromeOS-4285F4?logo=google-chrome&logoColor=white)
 
-![Phone — Google Pixel 6A](https://img.shields.io/badge/Phone-Pixel_6A-4285F4?logo=google&logoColor=white) ![OS — Stock Android 13](https://img.shields.io/badge/OS-Android%2013-3DDC84?logo=android&logoColor=white)
+![Phone — Google Pixel 6A](https://img.shields.io/badge/Phone-Pixel_6A-4285F4?logo=google&logoColor=white) ![OS — Stock Android 15](https://img.shields.io/badge/OS-Android%2015-3DDC84?logo=android&logoColor=white)
