@@ -20,12 +20,12 @@ I care deeply about current social, societal and environmental issues and strive
 
 ![Laptop — MSI GE70 2OE](https://img.shields.io/badge/Laptop-MSI%20GE70%202OE-FF0000?logo=msi&logoColor=white) ![OS — Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white) ![CPU — Intel Core i5-4200M](https://img.shields.io/badge/CPU-Intel%20i5--4200M-0071C5?logo=intel&logoColor=white) ![GPU — nVidia GeForce GTX 765M](https://img.shields.io/badge/GPU-GeForce%20GTX%20765M%20-76B900?logo=nvidia&logoColor=white)
 
+![Laptop — Asus C423N](https://img.shields.io/badge/Laptop-Asus%20C423N-000000?logo=asus&logoColor=white) ![OS — ChromeOS](https://img.shields.io/badge/OS-ChromeOS-4285F4?logo=google-chrome&logoColor=white)
+
 <hr>
 
 </details>
 
 ![Laptop — Asus Tuf Gaming F15](https://img.shields.io/badge/Laptop-ASUS%20TUF%20Gaming%20F15-000000?logo=asus&logoColor=white) ![OS — Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white) ![CPU — Intel i7-12700H](https://img.shields.io/badge/CPU-Intel%20i7--12700H-0071C5?logo=intel&logoColor=white) ![GPU — NVIDIA GeForce RTX 3050M](https://img.shields.io/badge/GPU-GeForce%20RTX%203050-76B900?logo=nvidia&logoColor=white)
-
-![Laptop — Asus C423N](https://img.shields.io/badge/Laptop-Asus%20C423N-000000?logo=asus&logoColor=white) ![OS — ChromeOS](https://img.shields.io/badge/OS-ChromeOS-4285F4?logo=google-chrome&logoColor=white)
 
 ![Phone — Google Pixel 6A](https://img.shields.io/badge/Phone-Pixel_6A-4285F4?logo=google&logoColor=white) ![OS — Stock Android 16](https://img.shields.io/badge/OS-Android%2016-3DDC84?logo=android&logoColor=white)
