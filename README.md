@@ -28,4 +28,4 @@ I care deeply about current social, societal and environmental issues and strive
 
 ![Laptop — Asus C423N](https://img.shields.io/badge/Laptop-Asus%20C423N-000000?logo=asus&logoColor=white) ![OS — ChromeOS](https://img.shields.io/badge/OS-ChromeOS-4285F4?logo=google-chrome&logoColor=white)
 
-![Phone — Google Pixel 6A](https://img.shields.io/badge/Phone-Pixel_6A-4285F4?logo=google&logoColor=white) ![OS — Stock Android 15](https://img.shields.io/badge/OS-Android%2015-3DDC84?logo=android&logoColor=white)
+![Phone — Google Pixel 6A](https://img.shields.io/badge/Phone-Pixel_6A-4285F4?logo=google&logoColor=white) ![OS — Stock Android 16](https://img.shields.io/badge/OS-Android%2016-3DDC84?logo=android&logoColor=white)
