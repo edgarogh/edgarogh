@@ -1,4 +1,4 @@
-Hi! I'm Edgar, I am currently studying computer science at Polytech Grenoble[^1] and ÉTS Montréal (in a double diploma) and aiming for an engineering degree.
+Hi! I'm Edgar, I'm currently looking for a job involving computers or anything else that can be programmed. I just graduated a computer science engineering degree at Polytech Grenoble[^1] and a software engineering master's degree at ÉTS Montréal (as a double diploma).
 
 [^1]: Information on the curriculum:
       🇬🇧 https://polytech.grenoble-inp.fr/medias/fichier/info-anglais-2-_1688983286603-pdf
@@ -6,7 +6,7 @@ Hi! I'm Edgar, I am currently studying computer science at Polytech Grenoble[^1]
 
 I love programming in my free time since I'm 10. I particularily love 🦀Rust🦀, compiler and programming language development, back-end web development, CLI tool development, optimization and low-level stuff. I also have a bit of interest in theoretical computer science.
 
-I care deeply about current social, societal and environmental issues and strive to prioritize addressing them over pursuing financial gain.
+I care deeply about current social, societal and environmental issues.
 
 ## Contact
 
