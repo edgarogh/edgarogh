@@ -16,7 +16,7 @@ I care deeply about current social, societal and environmental issues.
 ## Devices
 
 <details>
-<summary><em>On vacation in France while I'm abroad...</em></summary>
+<summary><em>In a drawer, somewhere...</em></summary>
 
 ![Laptop — MSI GE70 2OE](https://img.shields.io/badge/Laptop-MSI%20GE70%202OE-FF0000?logo=msi&logoColor=white) ![OS — Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-87CF3E?logo=linuxmint&logoColor=white) ![CPU — Intel Core i5-4200M](https://img.shields.io/badge/CPU-Intel%20i5--4200M-0071C5?logo=intel&logoColor=white) ![GPU — nVidia GeForce GTX 765M](https://img.shields.io/badge/GPU-GeForce%20GTX%20765M%20-76B900?logo=nvidia&logoColor=white)
 
